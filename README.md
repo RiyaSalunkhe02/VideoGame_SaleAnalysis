@@ -9,3 +9,5 @@
 3) Product Performance: Analyzes the performance of various product lines, identifying bestsellers and underperformers.<br>
 4) Customer Segmentation: Segments customers based on purchasing behavior to tailor marketing efforts and improve customer retention.<br>
 5) Time Analysis: Includes time-based analysis to understand sales distribution across different days, months, and times of day.</br>
+
+<a href="https://public.tableau.com/app/profile/riya.salunkhe/viz/SalesAnalysis_17177900123480/Dashboard1">Dashboard </a>
